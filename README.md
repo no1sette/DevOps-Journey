@@ -9,3 +9,5 @@ Getting familiar with Linux, to Networking, to Docker, CI/D, AWS fundamentals, T
 We're gonna go the full gamut.
 
 I am excited to dive into this field and document my journey.
+
+[Linux Journey](./Linux%20Journey/Week%201.md)
