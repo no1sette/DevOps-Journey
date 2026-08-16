@@ -2,7 +2,7 @@
 
 ## Day 0
 
-So far my first struggle was getting a free amazon aws account as I've created multiple free accounts over the years. I was able to get it setup thanks to some other debit cards I had around.
+So far my first struggle was getting a free amazon aws account as I've created multiple free accounts over the years.
 
 After that i was able to get an EC2 instance spun up and working, and was able to get a Ubuntu up and running.
 
@@ -62,3 +62,43 @@ Then I ran some commands to get familiar with the system.
 `ifstat` for continuous monitoring
 
 `sudo iftop -i ens5` for continuous monitoring on a specific interface
+
+## Day 2
+
+### Basic navigation
+
+On this day I'm learning about documentation and navigation.
+
+### Read The Manual
+
+I previously do know about the `-help` functionality but learning about the `man` has really been intersting, pushes it to a more interactive manual.
+
+Next is `tldr`. I have never used this before, had to install it with `snap install tldr` and it's a pretty cool tool, If you've been on the internet long enough, TLDR is pretty self explanatory.
+
+`apropos` is another interesting comman, imagine a thesauraus but for functions
+
+`mank -k` is another with similar functionality
+
+### Navigation
+
+Now onto navigating around
+
+`pwd` print working directory
+
+`cd` moves to different area
+
+`cd ..` move one folder up
+
+`ls` list the items in the files
+
+### Create and Delete
+
+`mkdir` as you might already know is about creating a directory
+
+`mv` to move to a different path
+
+`rmdir` to dellete directory alternative is `rm -r` if there are still items in that folder
+
+`rm` to delete
+
+`touch` to make empty files, I can imagine if you need to create a log file destination
