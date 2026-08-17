@@ -45,7 +45,7 @@ Then I ran some commands to get familiar with the system.
 
 `vmstat` memory statistics
 
-`dh -h ` disk space
+`df -h ` disk space
 
 `top` task manager
 
@@ -53,7 +53,7 @@ Then I ran some commands to get familiar with the system.
 
 ### Networking
 
-`ip config` for network interface
+`igconfig` for network interface
 
 `ip address` for newer simpler version of the network interface
 
@@ -71,13 +71,13 @@ On this day I'm learning about documentation and navigation.
 
 ### Read The Manual
 
-I previously do know about the `-help` functionality but learning about the `man` has really been intersting, pushes it to a more interactive manual.
+I previously do know about the `--help` functionality but learning about the `man` has really been interesting, pushes it to a more interactive manual.
 
 Next is `tldr`. I have never used this before, had to install it with `snap install tldr` and it's a pretty cool tool, If you've been on the internet long enough, TLDR is pretty self explanatory.
 
-`apropos` is another interesting comman, imagine a thesauraus but for functions
+`apropos` is another interesting command, imagine a thesaurus but for functions
 
-`mank -k` is another with similar functionality
+`man -k` is another with similar functionality
 
 ### Navigation
 
